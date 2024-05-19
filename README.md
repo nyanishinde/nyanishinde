@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Gyaneshwar Shinde<br>I'm a App developer and designer<br>from Maharashtra.</h2>
+<h2 align="center">Hi 👋! My name is Gyaneshwar Shinde<br>I'm an App Developer and Designer<br>from Maharashtra.</h2>
 
 ###
 
@@ -75,5 +75,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/nyanishinde/nyanishinde/output/snake.svg" alt="Snake animation" />
 ###
