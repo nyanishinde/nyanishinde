@@ -66,7 +66,7 @@
   <a href="https://www.behance.net/gyanishinde" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
   </a>
-  <a href="https://dribbble.com/gyanishinde10" target="_blank">
+  <a href= "https://dribbble.com/gyanishinde10" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dribbble logo"  />
   </a>
 </div>
