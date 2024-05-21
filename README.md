@@ -13,10 +13,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nyanishinde&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-These code shows 3 stats i want to place first two in a row and thrid below them
-
-
-
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
