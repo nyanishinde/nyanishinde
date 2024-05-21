@@ -1,5 +1,10 @@
 <h2 align="center">Hi 👋! My name is Gyaneshwar Shinde<br>I'm an App Developer and Designer<br>from Maharashtra.</h2>
 
+- 🔭 I’m currently working on [Radiate-Self Love](https://github.com/nyanishinde/Radiate)
+
+- 🌱 I’m currently learning - **Ui & UX designing**
+
+- 💬 Ask me about - **Native Android App Developement**
 ###
 
 <!-- Stats Section -->
