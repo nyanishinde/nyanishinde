@@ -3,13 +3,14 @@
 ###
 
 <!-- Stats Section -->
-<div style="display: flex; justify-content: space-between; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=nyanishinde&show_icons=true&locale=en&theme=dracula" alt="nyanishinde" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyanishinde&theme=dracula" alt="nyanishinde" />
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=nyanishinde&show_icons=true&locale=en&theme=dracula" alt="nyanishinde" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyanishinde&theme=dracula" alt="nyanishinde" width="45%" />
 </div>
+
 <!-- Languages Section -->
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nyanishinde&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nyanishinde&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 These code shows 3 stats i want to place first two in a row and thrid below them
