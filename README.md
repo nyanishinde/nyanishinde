@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋! My name is Gyaneshwar Shinde
   <br>I'm an App Developer and Designer<br>from Maharashtra.</h2>
 
-- 🔭 I’m currently working on [Karya - To Do List App](https://github.com/nyanishinde/Karya)
+- 🔭 I’m currently working on [Karya](https://github.com/nyanishinde/Karya)[ - To Do List App]
 
 - 🌱 I’m currently learning - **Ui & UX designing**
 
