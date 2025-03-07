@@ -11,6 +11,7 @@
 <!-- Stats Section -->
 <div style="display: flex; justify-content: space-between; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=nyanishinde&show_icons=true&locale=en&theme=dracula" alt="nyanishinde" width="45%" height="150" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyanishinde&theme=dracula" alt="nyanishinde" width="45%" height="150" />
 </div>
 
 <!-- Languages Section -->
